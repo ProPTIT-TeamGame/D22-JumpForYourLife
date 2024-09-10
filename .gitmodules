@@ -1,9 +1,12 @@
-[submodule "milometqua"]
-	path = milometqua
+[submodule "Quynh"]
+	path = Quynh
 	url = https://github.com/milometqua/_Jump4YourLife.git
-[submodule "0sym1"]
-	path = 0sym1
+[submodule "Ngoc"]
+	path = Ngoc
 	url = https://github.com/0sym1/Jump4YourLife.git
-[submodule "TanaKeKe"]
-	path = TanaKeKe
+[submodule "Tan"]
+	path = Tan
 	url = https://github.com/TanaKeKe/JumpForYourLife.git
+[submodule "Dat"]
+	path = Dat
+	url = https://github.com/nishii118/Jump4life.git
