@@ -8,3 +8,6 @@
 	path = Tan
 	url = https://github.com/TanaKeKe/JumpForYourLife.git
 
+[submodule "Dat"]
+	path = Dat
+	url = https://github.com/nishii118/Jump4DIE.git
